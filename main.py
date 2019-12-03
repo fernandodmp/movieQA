@@ -8,6 +8,8 @@ import string, time, sys
 if len(sys.argv) > 1 and sys.argv[1] == "-i":
     nltk.download('averaged_perceptron_tagger')
     nltk.download('punkt')
+    nltk.download('stopwords')
+    nltk.download('wordnet')
 
 
 def get_wordnet_pos(word):
