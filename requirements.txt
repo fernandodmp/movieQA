@@ -1,0 +1,8 @@
+certifi==2019.9.11
+isodate==0.6.0
+nltk==3.4.5
+pyparsing==2.4.5
+rdflib==4.2.2
+six==1.13.0
+SPARQLWrapper==1.8.4
+wincertstore==0.2
